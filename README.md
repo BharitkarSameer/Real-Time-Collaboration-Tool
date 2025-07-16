@@ -2,9 +2,9 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Rishikesh Sushant Bharote
+**NAME**: Sameer Janardan Bharitkar
 
-**INTERN ID**: CT06DF1332
+**INTERN ID**: CT06DF1296
 
 **DOMAIN**: MERN STACK WEB DEVELOPMENT
 
